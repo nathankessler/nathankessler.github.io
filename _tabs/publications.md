@@ -5,11 +5,11 @@ order: 3
 ---
 
 ## Preprints
-- **Normalizing Diffusion Kernels with Optimal Transport**, Nathan Kessler, Robin Magnet, Jean Feydy \\
-  *Under review* — [[arXiv](https://arxiv.org/abs/2601.09793)]
+- \
 
 ## Peer-reviewed
-- \
+- **Sinkhorn Normalization of Diffusion Kernels**, Nathan Kessler, Robin Magnet, Jean Feydy \\
+  ICML 2026 - [[arXiv]](https://arxiv.org/abs/2507.06161)
 
 ## Oral presentations
 - **Normalizing Diffusion Kernels with Optimal Transport** \\
